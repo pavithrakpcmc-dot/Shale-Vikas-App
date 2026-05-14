@@ -1,0 +1,9 @@
+﻿.gradle/
+build/
+app/build/
+local.properties
+functions/node_modules/
+functions/lib/
+*.hprof
+.idea/
+*.lnk
