@@ -1,7 +1,13 @@
 ﻿.gradle/
 build/
-app/build/
+**/build/
 local.properties
 app/google-services.json
+shaale_vikas_project/google-services.json
 functions/node_modules/
 functions/lib/
+*.hprof
+*.log
+*.iml
+.DS_Store
+.idea/
