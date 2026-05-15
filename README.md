@@ -50,17 +50,37 @@ firebase deploy --only firestore:rules,storage,functions
 
 ## Screenshot Gallery
 
-The current screenshot files in the `IMAGES/` folder are listed below. These filenames are available for review and can be used in the README if the project screenshots are updated.
+The current screenshot files in the `IMAGES/` folder are shown below and are embedded for GitHub preview.
 
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM.jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM (1).jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM (2).jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM.jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM (1).jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM (2).jpeg`
-- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.37 PM.jpeg`
+1. **Screenshot 1**
 
-> Note: The previous README image references pointed to missing screenshot files such as `00_splash.png` and `01_phone_login.png`. The section has been updated to reflect the actual screenshot assets currently present.
+   ![Screenshot 1](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.35%20PM.jpeg)
+
+2. **Screenshot 2**
+
+   ![Screenshot 2](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.35%20PM%20%281%29.jpeg)
+
+3. **Screenshot 3**
+
+   ![Screenshot 3](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.35%20PM%20%282%29.jpeg)
+
+4. **Screenshot 4**
+
+   ![Screenshot 4](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.36%20PM.jpeg)
+
+5. **Screenshot 5**
+
+   ![Screenshot 5](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.36%20PM%20%281%29.jpeg)
+
+6. **Screenshot 6**
+
+   ![Screenshot 6](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.36%20PM%20%282%29.jpeg)
+
+7. **Screenshot 7**
+
+   ![Screenshot 7](IMAGES/WhatsApp%20Image%202026-05-15%20at%203.20.37%20PM.jpeg)
+
+> Note: The previous README image references pointed to missing screenshot files such as `00_splash.png` and `01_phone_login.png`. This section now uses the actual screenshot assets currently present.
 
 ## Documentation
 
