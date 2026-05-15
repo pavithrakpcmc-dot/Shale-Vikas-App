@@ -50,37 +50,17 @@ firebase deploy --only firestore:rules,storage,functions
 
 ## Screenshot Gallery
 
-1. **App welcome / role selection**
+The current screenshot files in the `IMAGES/` folder are listed below. These filenames are available for review and can be used in the README if the project screenshots are updated.
 
-   ![Splash Screen](IMAGES/00_splash.png)
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM.jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM (1).jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.35 PM (2).jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM.jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM (1).jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.36 PM (2).jpeg`
+- `IMAGES/WhatsApp Image 2026-05-15 at 3.20.37 PM.jpeg`
 
-2. **Phone login**
-
-   ![Phone Login](IMAGES/01_phone_login.png)
-
-3. **Headmaster dashboard**
-
-   ![Headmaster Dashboard](IMAGES/02_headmaster_dashboard.png)
-
-4. **Needs list**
-
-   ![Needs List](IMAGES/03_need_list.png)
-
-5. **Cost breakdown detail**
-
-   ![Cost Breakdown](IMAGES/04_cost_breakdown.png)
-
-6. **Need detail view**
-
-   ![Need Detail](IMAGES/05_roof_repair_detail.png)
-
-7. **Create new need**
-
-   ![Create Need](IMAGES/06_create_need.png)
-
-8. **Hall of Fame**
-
-   ![Hall of Fame](IMAGES/07_hall_of_fame.png)
+> Note: The previous README image references pointed to missing screenshot files such as `00_splash.png` and `01_phone_login.png`. The section has been updated to reflect the actual screenshot assets currently present.
 
 ## Documentation
 
