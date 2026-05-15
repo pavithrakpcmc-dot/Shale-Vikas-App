@@ -1,0 +1,7 @@
+﻿.gradle/
+build/
+app/build/
+local.properties
+app/google-services.json
+functions/node_modules/
+functions/lib/
